@@ -1,0 +1,6 @@
+notebooks=int(input("enter number of notebooks :"))
+pens=int(input("enter number of pens"))
+notebook_price=int(input("enter price"))
+pen_price=int(input("enter  price"))
+total_bill=(notebooks*notebook_price)+(pens*pen_price)
+print(total_bill)
