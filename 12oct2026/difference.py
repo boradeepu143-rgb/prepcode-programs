@@ -1,3 +1,3 @@
-#a={1,2,3}
-s={1,2,3}.difference({6,7})
-print(s)
+a={1,2,3,4}
+b={1,2,3}
+print((a).difference(b))
