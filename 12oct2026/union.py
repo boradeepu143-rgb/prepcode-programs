@@ -1,2 +1,3 @@
-u={1,2}.union({3,4})
-print(union)
+u={1,2}
+s=u.union({3,4})
+print(s)
